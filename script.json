@@ -1,8 +1,10 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a UX designer from Austin.\n Want to know more about bots or learn about Penguin? %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nWant to know more about bots or learn about Penguin? %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey hey hey I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "MONKEY": "What's your SSN and credit card information?",
+    "PENGUIN": "Penguin, you're so awesome and I love you",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "I'm like Time Warner Cable"
 }
